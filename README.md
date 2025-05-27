@@ -1,4 +1,3 @@
-# taxbot-autogen
 # 税务智能问答系统（taxbot-autogen）
 
 ## 项目简介
