@@ -65,11 +65,10 @@
 
 1. **依赖安装**
 
-   建议使用 Python 3.10+，并安装如下依赖（可根据实际情况补充 requirements.txt）：
+   建议使用 Python 3.10+，并安装如下依赖：
 
    ```bash
-   pip install requests
-   # 以及 fastchat、autogen 等相关依赖
+   pip install -r requirements.txt
    ```
 
 2. **启动本地大模型服务**
@@ -168,5 +167,3 @@ print("返回内容:", response.json())
 
 ---
 
-你可以直接将以上内容保存为 `README.md` 文件，方便用户和开发者查阅。  
-如果需要英文版或更详细的技术细节，也可以随时告诉我！ 
